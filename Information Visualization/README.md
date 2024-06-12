@@ -1,7 +1,7 @@
 # This project was a part of my Information Visualization coursework in my Master's program at UoG 2023-24.
 
 # Dataset
-https://www.kaggle.com/datasets/asaniczka/full-tmdb-tv-shows-dataset-2023-150k-shows
+(https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
 
 # Reference Systems
 - https://www.dashboardy.pl/en/dashboard-for-movie-producer/
