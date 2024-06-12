@@ -1,4 +1,4 @@
-This Project is a part of my Deep Learning Coursework.
+# This project is a part of my Deep Learning coursework in my Master's program.
 
 Project Title: Predicting Secondary Protein Structure Using Fully Convolutional Neural Networks
 
