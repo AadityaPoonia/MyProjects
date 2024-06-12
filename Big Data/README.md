@@ -1,7 +1,7 @@
 # Efficient Text Analysis and Query Processing with Apache Spark
 
 # Project Overview
-This project was part of the assessed coursework for the Big Data postgraduate course at the University of Glasgow during the 2022-2023 academic year.
+This project was part of the assessed coursework for the Big Data postgraduate course at the University of Glasgow during the 2023-2024 academic year.
 
 # Coursework Specification
 
