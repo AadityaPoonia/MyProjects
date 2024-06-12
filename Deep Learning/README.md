@@ -1,4 +1,4 @@
-# This project is a part of my Deep Learning coursework in my Master's program.
+# This project was a part of my Deep Learning coursework in my Master's program at UoG 2023-24.
 
 Project Title: Predicting Secondary Protein Structure Using Fully Convolutional Neural Networks
 
