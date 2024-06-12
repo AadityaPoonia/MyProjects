@@ -15,4 +15,4 @@ The project requires the development of a batch-based text search and filtering 
 Processing the full dataset (~5 GB) with a set of ten queries using four local executors took approximately 120 seconds.
 
 # Note
-The dataset used for this project is too large to be included in the submission, but it can be accessed from the provided link.
+The dataset used for this project is too large to be included in the submission, but it can be accessed from the provided [link](https://ir-datasets.com/wapo.html).
