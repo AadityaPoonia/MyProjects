@@ -1,6 +1,6 @@
-# This project was a part of my Programming & Systems Development coursework in my Master's program at UoG 2023-24.
+## This project was a part of my Programming & Systems Development coursework in my Master's program at UoG 2023-24.
 
-## E-Vehicle Share System
+# E-Vehicle Share System
 
 ### Application startup guide
 For the application environment to be initialized properly, make sure the following requirements are satisfied.
