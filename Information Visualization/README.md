@@ -9,7 +9,6 @@ I have developed a multiview visualization system using Python & Vega-Lite. The 
 Selecting and categorizing a suitable dataset.
 Implementing three different multiview visualization systems with brushing and linking capabilities.
 Extending core functionalities with advanced generalization selection techniques.
-Producing a demo video showcasing the systems.
 Comparing design decisions and conducting user evaluations.
 Documenting findings and proposing future improvements based on evaluation results.
 
