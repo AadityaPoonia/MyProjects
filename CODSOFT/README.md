@@ -1,8 +1,3 @@
-# Note:
-
-The projects in this folder are a part of data science internship with Codsoft.
-I would like to express my heartfelt gratitude to CodSoft for providing me with the opportunity to participate in this project. Throughout this journey, I have gained invaluable knowledge and hands-on experience in Machine Learning and Data Science concepts.
-
 # 🚢 Titanic Survival Prediction:
 Explored the renowned Titanic dataset to predict passenger survival probabilities, applying advanced machine learning techniques for classification.
 
@@ -17,3 +12,7 @@ Developed a robust machine learning model to detect fraudulent credit card trans
 
 # 🌸 Iris Flower Classification:
 Utilized the Iris dataset to develop a classification model capable of accurately categorizing iris flowers into different species based on their sepal and petal measurements. This introductory task provided valuable insights into classification techniques and dataset analysis.
+
+# Note:
+The projects in this folder are a part of data science internship with Codsoft.
+I would like to express my heartfelt gratitude to CodSoft for providing me with the opportunity to participate in this project. Throughout this journey, I have gained invaluable knowledge and hands-on experience in Machine Learning and Data Science concepts.
