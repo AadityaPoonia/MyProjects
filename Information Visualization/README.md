@@ -6,11 +6,11 @@ I have developed a multiview visualization system using Python & Vega-Lite. The 
 
 # Key responsibilities included:
 
-Selecting and categorizing a suitable dataset.
-Implementing three different multiview visualization systems with brushing and linking capabilities.
-Extending core functionalities with advanced generalization selection techniques.
-Comparing design decisions and conducting user evaluations.
-Documenting findings and proposing future improvements based on evaluation results.
+- Selecting and categorizing a suitable dataset.
+- Implementing three different multiview visualization systems with brushing and linking capabilities.
+- Extending core functionalities with advanced generalization selection techniques.
+- Comparing design decisions and conducting user evaluations.
+- Documenting findings and proposing future improvements based on evaluation results.
 
 # Dataset
 (https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
