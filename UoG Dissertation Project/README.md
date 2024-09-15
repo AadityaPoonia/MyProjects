@@ -1,4 +1,5 @@
 **Auto Generation of Legal Analysis in NIA Cases Using LLMs**
+
 This project is my Master's dissertation for the MSc in Data Science program, focusing on developing a system that autonomously generates detailed legal analysis for cases under the Negotiable Instruments Act, 1881 (NIA) using Large Language Models (LLMs).
 
 **Project Overview**
