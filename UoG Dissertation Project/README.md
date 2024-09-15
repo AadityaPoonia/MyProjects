@@ -1,3 +1,23 @@
+**Auto Generation of Legal Analysis in NIA Cases Using LLMs**
+This project is my Master's dissertation for the MSc in Data Science program, focusing on developing a system that autonomously generates detailed legal analysis for cases under the Negotiable Instruments Act, 1881 (NIA) using Large Language Models (LLMs).
+
+**Project Overview**
+The goal of this project was to explore the capabilities of various LLMs, such as LLaMA-3, Mistral 8x7B, and SaulLM-7B, in generating accurate legal analysis and predicting case verdicts. Additionally, the project employed Retrieval-Augmented Generation (RAG) techniques to enrich the models' context through relevant case precedents and statutory citations.
+
+**Key features of this project include:**
+Fine-tuning LLMs using LoRA (Low-Rank Adaptation) for better model efficiency.
+Applying the DSPy framework for structured prompt engineering.
+Vector-based retrieval of similar cases using FAISS to improve context in legal analysis generation.
+Evaluation of model performance using metrics such as BERTScore, ROUGE, and METEOR, alongside manual evaluation by a legal team.
+Key Components
+Data Preprocessing: Cleaned and structured legal data from NIA cases to generate cleaned_nia_cases.json.
+Model Fine-Tuning: Customized fine-tuning using LoRA on SaulLM-7B.
+DSPy Prompt Optimization: Applied prompt optimization with DSPy to improve analysis generation.
+RAG Implementation: Enriched context through similar case retrieval and citation inclusion.
+
+**Results**
+The results demonstrated that Mistral 8x7B with added context provided the best overall performance, while fine-tuned models like SaulLM-7B showed promising results despite resource constraints. However, further optimizations, such as handling longer legal texts and fine-tuning under better computational resources, could lead to further improvements.
+
 **IMPORTANT:** Please note that the main dataset file, **cases.nia_cases.json**, is not included in this repository due to its large size and confidentiality constraints. If you require access to this dataset for research or replication purposes, please feel free to contact me via email, and I will be happy to share it with you upon request.
 
 Additionally, the file **cleaned_nia_cases.json** will not be present in the data folder initially. This file will be automatically generated after running the preprocessing script. The script processes the main dataset (cases.nia_cases.json), cleans the data, and outputs cleaned_nia_cases.json as part of the preprocessing workflow.
