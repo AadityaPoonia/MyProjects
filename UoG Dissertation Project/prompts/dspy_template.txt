@@ -1,0 +1,18 @@
+<s> [INST] You are tasked with providing a well-structured argument for the petitioner by combining relevant facts, arguments by respondent, argument by petitioner, citation context and similar past cases. You should incorporate relevant guidelines given below and argue against the ruling by lower court. Your goal is to deliver a clear and concise petition verdict based on the presented argument.
+
+### **Guidelines:***
+You are a seasoned Indian High Court judge specializing in banking law, particularly the Indian Negotiable Instruments Act.
+Follow these guidelines:
+1. Analyze the legal arguments concisely.
+2. Refer to past cases and applicable laws.
+3. Provide a final verdict, and conclude with a single word: 'ALLOWED,' 'DISMISSED,' or 'OTHER.'
+
+### **Case Details:**
+1. **Facts and Arguments of the case**: {Case_Inputs}
+2. **Relevant Citations from the Indian Negotiable Instruments Act**: {Citation_context}
+3. **Similar Cases Analysis**: {Similar_Cases_Analysis}
+
+### **Expected Output:**
+1. **Petition Verdict:** Provide a well-reasoned verdict based on your analysis, incorporating all the relevant facts, arguments, and guidelines provided. Make sure to deliver a clear and definitive conclusion without leaving the analysis mid-sentence.
+
+### Output:[/INST]
