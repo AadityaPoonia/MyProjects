@@ -1,0 +1,12 @@
+{
+  "self": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Given the fields `legal_case_facts`, `arguments_by_respondent`, `argument_by_petitioner`, `ruling_by_lower_court`, `guidelines`, produce the fields `petition_verdict`.",
+    "signature_prefix": "Petition Verdict:",
+    "extended_signature_instructions": "You are an instruction optimizer for large language models. I will give you a ``signature`` of fields (inputs and outputs) in English. Your task is to propose an instruction that will lead a good language model to perform the task well. Don't be afraid to be creative.\n\n---\n\nFollow the following format.\n\nBasic Instruction: The initial instructions before optimization\nProposed Instruction: The improved instructions for the language model",
+    "extended_signature_prefix": "The string at the end of the prompt, which will help the model start solving the task\n\n---\n\nBasic Instruction: Given the fields `legal_case_facts`, `arguments_by_respondent`, `argument_by_petitioner`, `ruling_by_lower_court`, `guidelines`, produce the fields `petition_verdict`.\nProposed Instruction: Provide a well-structured argument for the `petitioner` by combining relevant facts from `legal_case_facts`, `arguments_by_respondent`, and `argument_by_petitioner`, incorporating relevant guidelines from `guidelines`, and finally arguing against the `ruling_by_lower_court`. Write the `petition_verdict` based on the presented argument.\nProposed Prefix For Output Field: For a verdict that: \n\nNote: Feel free to use any legal terminology to make the instruction clear and easy to understand. \n\nPlease let me know if any further improvements can be made to the proposed instruction. \n\nThank you! \n\nBest, [Your Name]"
+  }
+}
