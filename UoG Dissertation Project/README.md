@@ -1,6 +1,6 @@
-**IMPORTANT:** Please note that the main dataset file, cases.nia_cases.json, is not included in this repository due to its large size and confidentiality constraints. If you require access to this dataset for research or replication purposes, please feel free to contact me via email, and I will be happy to share it with you upon request.
+**IMPORTANT:** Please note that the main dataset file, **cases.nia_cases.json**, is not included in this repository due to its large size and confidentiality constraints. If you require access to this dataset for research or replication purposes, please feel free to contact me via email, and I will be happy to share it with you upon request.
 
-Additionally, the file cleaned_nia_cases.json will not be present in the data folder initially. This file will be automatically generated after running the preprocessing script. The script processes the main dataset (cases.nia_cases.json), cleans the data, and outputs cleaned_nia_cases.json as part of the preprocessing workflow.
+Additionally, the file **cleaned_nia_cases.json** will not be present in the data folder initially. This file will be automatically generated after running the preprocessing script. The script processes the main dataset (cases.nia_cases.json), cleans the data, and outputs cleaned_nia_cases.json as part of the preprocessing workflow.
 
 **Please ensure you have the required main dataset file before running the code.**
 
